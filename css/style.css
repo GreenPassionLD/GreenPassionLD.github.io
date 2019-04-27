@@ -18,12 +18,12 @@ html,body,header, #intro{
     background-size: cover;*/
 
     #intro{
-    background: url(../img/Landscape-bg/Sliders/m.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    -o-background-size: cover;
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
+        background-image: url(../img/Landscape-bg/Sliders/m.jpg);
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-attachment: fixed;
+        background-width: 100% auto;
+        background-color: #085328;
     
     
    
