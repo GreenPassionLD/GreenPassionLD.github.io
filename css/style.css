@@ -4,8 +4,8 @@ html,body,header, #intro{
 }
 #intro{
     background: url(../img/Landscape-bg/Sliders/m.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-	background-size: cover;
+    -webkit-background-size: cover fixed;
+	background-size: cover fixed ;
    
     
 }
