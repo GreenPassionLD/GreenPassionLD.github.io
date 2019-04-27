@@ -18,7 +18,7 @@ html,body,header, #intro{
     background-size: cover;*/
 
     #intro{
-    background: url(../img/Landscape-bg/Sliders/m.jpg);
+    background: url(../img/Landscape-bg/Sliders/m.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     -o-background-size: cover;
