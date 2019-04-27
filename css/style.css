@@ -9,6 +9,8 @@ html,body,header, #intro{
     -o-background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
+    -webkit-min-device-pixel-ratio: 2;
+    
 }
 .top-nav-collapse{
     background-color: #085328;
