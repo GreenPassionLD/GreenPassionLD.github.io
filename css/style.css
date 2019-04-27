@@ -12,10 +12,18 @@ html,body,header, #intro{
     }
 }
 
-#intro{
+/* #intro{
     background: url(../img/Landscape-bg/Sliders/m.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
-    background-size: cover;
+    background-size: cover;*/
+
+    #intro{
+    background: url(../img/Landscape-bg/Sliders/m.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
     
     
    
