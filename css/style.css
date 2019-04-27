@@ -20,7 +20,7 @@ html,body,header, #intro{
     #intro{
         background-image: url(../img/Landscape-bg/Sliders/m.jpg);
         background-repeat: no-repeat;
-        background-position: center top;
+        background-position: center;
         background-attachment: fixed;
         background-width: 100% auto;
         background-color: #085328;
