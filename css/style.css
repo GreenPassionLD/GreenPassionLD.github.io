@@ -5,12 +5,11 @@ html,body,header, #intro{
 #intro{
     background: url(../img/Landscape-bg/Sliders/m.jpg);
     position: not fixed;
-            height: 100%;
-            width: 100%;
-            top: 0;
-            left: 0;
+            height: cover;
+            width: cover;
+            
             background-repeat: no-repeat;
-            background-position: bottom center;
+            background-position: cover;
             background-image: url("../img/Landscape-bg/Sliders/m.jpg");
             opacity: 1;
             z-index: -1;
