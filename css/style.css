@@ -8,7 +8,7 @@ html,body,header, #intro{
     background-attachment: fixed;
     -o-background-size: cover;
     -moz-background-size: cover;
-    -webkit-min-device-pixel-ratio: 2
+    -webkit-background-size: cover;
 }
 .top-nav-collapse{
     background-color: #085328;
