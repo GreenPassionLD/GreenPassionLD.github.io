@@ -4,7 +4,7 @@ html,body,header, #intro{
 }
 #intro{
     background: url(../img/Landscape-bg/Sliders/m.jpg);
-    background-repeat: no-repeat;
+    background-repeat:  no-repeat scroll 0% 0% / cover;;
     background-attachment: fixed;
     -o-background-size: cover;
     -moz-background-size: cover;
