@@ -3,13 +3,17 @@ html,body,header, #intro{
 
 }
 #intro{
-    background: url(../img/Landscape-bg/Sliders/m.jpg);
-    background-repeat:  no-repeat scroll 0% 0% / cover;;
-    background-attachment: fixed;
-    -o-background-size: cover;
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
-    -webkit-min-device-pixel-ratio: 2;
+    
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-image: url("../img/Landscape-bg/Sliders/m.jpg");
+    opacity: 1;
+    z-index: -1;
     
 }
 .top-nav-collapse{
