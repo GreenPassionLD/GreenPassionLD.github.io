@@ -4,8 +4,8 @@ html,body,header, #intro{
 }
 #intro{
     background: url(../img/Landscape-bg/Sliders/m.jpg);
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
+    position: relative;
+  left: 0px;
     
     background-repeat: no-repeat;
     background-position: bottom center;
