@@ -5,7 +5,10 @@ html,body,header, #intro{
 #intro{
     background: url(../img/Landscape-bg/Sliders/m.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover fixed;
-	background-size: cover;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 0%;
+    background-position: center top;
    
     
 }
